@@ -1,0 +1,35 @@
+.navbar{
+    border: 1px solid rgb(219, 214, 214);
+    height: 45px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar>div{
+    display: flex;
+    width: 45%;
+    /* border: 1px solid red; */
+}
+
+.btns{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.lgn{
+    /* border: 1px solid green; */
+    display: flex;
+    justify-content: space-between;
+}
+
+.lgn>div{
+    /* border: 1px solid blue; */
+    width: 35%;
+}
+
+.inbox{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
